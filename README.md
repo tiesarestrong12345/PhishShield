@@ -1,2 +1,3 @@
 # PhishShield
 Phishing is a type of social engineering attack often used to steal user data, including login credentials and credit card numbers. It occurs when an attacker, masquerading as a trusted entity, dupes a victim into opening an email, instant message, or text message. The recipient is then tricked into clicking a malicious link, which can lead to the installation of malware, the freezing of the system as part of a ransomware attack or the revealing of sensitive information.
+![image](https://user-images.githubusercontent.com/86620156/123674518-52592a00-d85f-11eb-8417-2abc60c545b6.png)
